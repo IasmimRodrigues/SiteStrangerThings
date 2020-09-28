@@ -41,17 +41,6 @@
     font-size: 15px;
 }
 
-/*.banner header .logo {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    padding: 40px 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: left;
-    z-index: 10000;
-}*/
 
 .about {
     position: relative;
@@ -173,7 +162,7 @@
 }
 
 .season1 .imgBox1 {
-    background: url(/images/temp1.jpg);
+    background: url(images/temp1.jpg);
     width: 100%;
     background-size: center;
     background-position: center;
@@ -211,7 +200,7 @@
 }
 
 .season2 .imgBox2 {
-    background: url(/images/temp2.jpg);
+    background: url(images/temp2.jpg);
     width: 100%;
     background-size: center;
     background-position: center;
@@ -249,7 +238,7 @@
 }
 
 .season3 .imgBox3 {
-    background: url(/images/temp3.jpg);
+    background: url(images/temp3.jpg);
     width: 100%;
     background-size: center;
     background-position: center;
